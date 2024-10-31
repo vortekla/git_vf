@@ -1,0 +1,35 @@
+.box{
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    background-color: beige;
+}
+.img_droma{
+    width: 20%;
+    margin:3%;
+   float: right;
+    
+}
+.block_top{
+    display: flex;
+}
+
+.display{
+    display: flex;
+    justify-content: space-between;
+}   
+.text_forma{
+    width: 70%;
+}
+.bloque_date{
+    width: 30%;
+    margin-left: 2%;
+}
+.titre{
+    margin: 2%;
+}
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: bisque;
+}   
